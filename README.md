@@ -1,2 +1,2 @@
 # imagegallery
-my first django mini project
+my first django mini project_@venkatesh_posa
